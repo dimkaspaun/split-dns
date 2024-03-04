@@ -1,4 +1,4 @@
-# HW23 - Настраиваем split-dns
+# Настраиваем split-dns
 
 ## Введение
 
@@ -83,12 +83,9 @@ Split DNS (split-horizon или split-brain) — это конфигурация
 git clone https://github.com/erlong15/vagrant-bind.git
 cd vagrant-bind
 ls -l
-
-total 16
--rw-r--r--   1 alexey  staff  414 11 май 23:34 README.md
--rw-r--r--   1 alexey  staff  820 11 май 23:34 Vagrantfile
-drwxr-xr-x  14 alexey  staff  448 11 май 23:34 provisioning
 ```
+
+![2024-03-04_14-00-03](https://github.com/dimkaspaun/split-dns/assets/156161074/afad6e56-8530-48b4-b634-efb327844561)
 
 Мы увидем файл Vagrantfile. Откроем его в любом, удобном для вас текстовом редакторе и добавим необходимую ВМ:
 
