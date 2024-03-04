@@ -1089,11 +1089,3 @@ ping web2.dns.lab
       state: restarted
       enabled: yes
 ```
-
-### Рекомендуемые источни
-
-- Статья o DNS (общая информация) - <https://ru.wikipedia.org/wiki/DNS>
-- Статья «DNS сервер BIND (теория)» - <https://habr.com/ru/post/137587/>
-- Статья «Настройка Split DNS на одном сервере Bind» - <https://www.dmosk.ru/miniinstruktions.php?mini=split-dns-bind>
-- Статья «Split DNS: заставим BIND работать на два фронта!» - <http://samag.ru/archive/article/771>
-- Статья «DNS BIND Zone Transfers and Updates» - <https://www.zytrax.com/books/dns/ch7/xfer.html#:~:text=also%2Dnotify%20Statement%20(Pre%20BIND9.9)&text=also%2Dnotify%20defines%20a%20list,NS%20records%20for%20the%20zone>
